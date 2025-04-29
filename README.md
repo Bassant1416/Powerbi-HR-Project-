@@ -6,7 +6,4 @@ This project aims to provide interactive dashboards for Human Resources to:
 
 Understand employee distribution by age, gender, state, and department.
 
-Analyze job satisfaction, training participation, and manager vs. self-rating gaps.
-
-Monitor attrition trends and employee retention risks.
-
+Analyze job satisfaction, training participation, and manager vs. self-rating gaps
